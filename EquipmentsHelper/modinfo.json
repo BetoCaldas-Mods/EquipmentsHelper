@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "modid": "equipmentshelper",
+  "name": "Equipments Helper",
+  "authors": [
+    "Mintir4"
+  ],
+  "description": "Mostra as condições de equipamentos e onde eles são equipados.",
+  "version": "0.0.1",
+  "website": "",
+  "dependencies": {
+    "game": "1.19.0"
+  }
+}

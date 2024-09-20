@@ -1,0 +1,13 @@
+{
+  "code": "equipmentshelpertooltipmod",
+  "type": "itemstack",
+  "method": "onMouseOverTooltip",
+  "target": "game:itemstack",
+  "args": [
+    {
+      "classname": "EquipmentsHelperTooltipRenderer",
+      "method": "RenderEquipmentsHelperTooltip",
+      "priority": "high"
+    }
+  ]
+}
